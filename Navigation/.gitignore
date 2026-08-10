@@ -1,0 +1,21 @@
+# Java / Eclipse
+bin/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.project
+.classpath
+.settings/
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
