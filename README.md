@@ -72,8 +72,8 @@ This project helped me strengthen my understanding of:
 This project was developed as a group academic project at the University of Johannesburg.
 
 - [Vukosi Shikwambana](https://github.com/YOUR-USERNAME)
-- [Edank Mkharhi](https://github.com/THEIR-USERNAME)
-- [Charity Hlapho](https://github.com/THEIR-USERNAME)
-- [Onkarabile Gift Moumakwa](https://github.com/THEIR-USERNAME) 
+- [Edank Mkharhi](https://github.com/Terry-Henry-cmd)
+- [Charity Hlapho](https://github.com/TarieS09)
+- [Onkarabile Gift Moumakwa](https://github.com/Gift047)
 
 
