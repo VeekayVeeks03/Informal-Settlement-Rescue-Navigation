@@ -68,6 +68,12 @@ This project helped me strengthen my understanding of:
 - Applying computer science theory to real-world problems
 
 ## Contributors
-Author/profile maintained by: Vukosi Shikwambana
-This project was completed as part of a four-member academic group project.
+
+This project was developed as a group academic project at the University of Johannesburg.
+
+- [Vukosi Shikwambana](https://github.com/YOUR-USERNAME)
+- [Edank Mkharhi](https://github.com/THEIR-USERNAME)
+- [Charity Hlapho](https://github.com/THEIR-USERNAME)
+- [Onkarabile Gift Moumakwa](https://github.com/THEIR-USERNAME) 
+
 
